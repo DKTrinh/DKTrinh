@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Do Khanh Trinh 👋</h1>
-  <p><em>✨ An undergrad at HCMUT exploring the intersection of Hardware, Software, and Systems.</em></p>
+  <p><em>✨ Computer Engineering Student at Ho Chi Minh City University of Technology (HCMUT) ✨</em></p>
 </div>
 
 **I'm passionate about software engineering and building robust systems—focusing on data-driven web applications, scalable architectures, and efficient algorithms. This space is where I document my technical journey and experiment with new coding concepts.**
