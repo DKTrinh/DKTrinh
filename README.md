@@ -7,13 +7,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DKTrinh&theme=tokyo-night&hide_border=true" width="80%" alt="Activity Graph" />
-</div>
-
----
-
 ### 🛠️ Tech Stack & Tools
 
 **Software & Web Development**
@@ -44,6 +37,14 @@
 * **[Petri Net Reachability Explorer](link-to-repo):** A mathematical modeling tool developed in Python, exploring system states and reachability analysis.
 * **[High-Performance Chess Engine](link-to-repo):** Implementation of search algorithms and game logic in Python.
 * **[Digital Logic Design](link-to-repo):** Various RTL implementations and testbench results for systems like the Ring Flasher.
+
+---
+
+
+### 📊 GitHub Analytics
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DKTrinh&theme=tokyo-night&hide_border=true" width="80%" alt="Activity Graph" />
+</div>
 
 ---
 
