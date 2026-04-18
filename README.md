@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm DKTrinh 👋</h1>
+  <h1>Hi there, I'm Do Khanh Trinh 👋</h1>
   <p><em>✨ An undergrad at HCMUT exploring the intersection of Hardware, Software, and Systems.</em></p>
 </div>
 
@@ -29,7 +29,7 @@
 <a href="#"><img alt="Altium Designer" src="https://img.shields.io/badge/Altium-A5A5A5?style=for-the-badge&logo=altium&logoColor=black"></a>
 
 ---
-
+<!--
 ### 🚀 Featured Projects & Explorations
 
 * **[Smart Parking System](link-to-repo):** A comprehensive system featuring back-end logic, use-case modeling, and an interactive front-end interface built with React.
@@ -39,7 +39,7 @@
 * **[Digital Logic Design](link-to-repo):** Various RTL implementations and testbench results for systems like the Ring Flasher.
 
 ---
-
+-->
 
 ### 📊 GitHub Analytics
 <div align="center">
