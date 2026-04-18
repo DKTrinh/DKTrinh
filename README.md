@@ -9,11 +9,6 @@
 
 ### 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DKTrinh&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DKTrinh&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-</div>
-<br>
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DKTrinh&theme=tokyo-night&hide_border=true" width="80%" alt="Activity Graph" />
 </div>
 
