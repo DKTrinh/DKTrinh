@@ -55,5 +55,5 @@
   </div>
 
 <p align="center">
-  <em>Hardware. Software. Systems.</em>
+  <em>Software. Hardware. Systems.</em>
 </p>
