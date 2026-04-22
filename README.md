@@ -41,6 +41,23 @@
 ---
 -->
 
+###🚀 Featured Projects & Explorations
+* **[AIphaChess]:** A sophisticated web-based chess application featuring AI-powered single-player modes (Flask, Python-chess) and real-time PvP matchmaking via WebSockets.
+
+* **[Simple Calculator]:** An embedded systems project utilizing FreeRTOS, a 4x4 Keypad, and I2C LCD to evaluate string-based mathematical expressions with custom logic.
+
+* **[FinZ Finance Dashboard]:** A minimalist, static web application built with HTML, Tailwind CSS, and vanilla JavaScript, designed for efficient personal financial tracking.
+
+<!--
+Smart Parking System: A comprehensive system featuring back-end logic, use-case modeling, and an interactive front-end interface built with React.
+
+Library Management System: A web-based application utilizing PHP and MySQL for efficient book tracking and administrative functions.
+
+Petri Net Reachability Explorer: A mathematical modeling tool developed in Python, exploring system states and reachability analysis.
+
+Digital Logic Design: Various RTL implementations and testbench results for systems like the Ring Flasher.
+-->
+
 ### 📊 GitHub Analytics
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DKTrinh&theme=tokyo-night&hide_border=true" width="80%" alt="Activity Graph" />
