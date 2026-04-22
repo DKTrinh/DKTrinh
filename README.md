@@ -42,11 +42,11 @@
 -->
 
 ### 🚀 Featured Projects & Explorations
-* **[AIphaChess](link-to-repo):** A sophisticated web-based chess application featuring AI-powered single-player modes (Flask, Python-chess) and real-time PvP matchmaking via WebSockets.
+* **[AIphaChess](link-to-repo:https://github.com/DKTrinh/AlphaChess):** A sophisticated web-based chess application featuring AI-powered single-player modes (Flask, Python-chess) and real-time PvP matchmaking via WebSockets.
 
-* **[Simple Calculator](link-to-repo):** An embedded systems project utilizing FreeRTOS, a 4x4 Keypad, and I2C LCD to evaluate string-based mathematical expressions with custom logic.
+* **[Simple Calculator](link-to-repo:https://github.com/DKTrinh/Simple-Calculator):** An embedded systems project utilizing FreeRTOS, a 4x4 Keypad, and I2C LCD to evaluate string-based mathematical expressions with custom logic.
 
-* **[FinZ Finance Dashboard](link-to-repo):** A minimalist, static web application built with HTML, Tailwind CSS, and vanilla JavaScript, designed for efficient personal financial tracking.
+* **[FinZ Finance Dashboard](link-to-repo:https://github.com/DKTrinh/FinZ):** A minimalist, static web application built with HTML, Tailwind CSS, and vanilla JavaScript, designed for efficient personal financial tracking.
 
 <!--
 Smart Parking System: A comprehensive system featuring back-end logic, use-case modeling, and an interactive front-end interface built with React.
