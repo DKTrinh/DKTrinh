@@ -26,7 +26,7 @@
 <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
 <a href="#"><img alt="STM32" src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"></a>
 <a href="#"><img alt="Verilog" src="https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=verilog&logoColor=white"></a>
-<a href="#"><img alt="ESP32" src="https://img.shields.io/badge/Altium-A5A5A5?style=for-the-badge&logo=ESP32&logoColor=black"></a>
+<a href="#"><img alt="ESP32" src="https://img.shields.io/badge/ESP32-A5A5A5?style=for-the-badge&logo=ESP32&logoColor=black"></a>
 
 ---
 <!--
